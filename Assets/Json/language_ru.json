@@ -1,0 +1,24 @@
+{
+   "keyValuePairs": [
+      {
+         "key": "welcome",
+         "value":"Добро пожаловать"
+      },
+      {
+         "key":"start",
+         "value":"Старт"
+      },
+      {
+         "key": "finding opponent",
+         "value": "Поиск противника"
+      },
+      {
+         "key": "you",
+         "value": "Вы"
+      },
+      {
+         "key": "cancel",
+         "value": "Отмена"
+      }
+   ]
+}

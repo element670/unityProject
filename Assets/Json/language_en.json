@@ -1,0 +1,24 @@
+{
+  "keyValuePairs": [
+    {
+      "key": "welcome",
+      "value":"Welcome"
+    },
+    {
+      "key":"start",
+      "value":"Start"
+    },
+    {
+      "key": "finding opponent",
+      "value": "Finding opponent"
+    },
+    {
+      "key": "you",
+      "value": "You"
+    },
+    {
+      "key": "cancel",
+      "value": "Cancel"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d29be11-78e5-4be9-83a9-3f1dc034ac50" name="Default Changelist" comment="Change Language">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Settings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Settings.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/b3/a560747a/SqliteTransaction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/05/1fac340a/SqliteDataReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/8c/08b825bf/SQLiteCommitHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5A41D6B7-1898-42EC-A409-FD0B1C3E3DCF/0/System.Collections.Generic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/98/91bb3764/SQLiteConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/e8/2e9b0c07/SqliteConnectionStringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/71/0e03c599/SqliteCommandBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/38/8065a04b/SqliteFunctionEx.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/e8/c0d8e0d6/SqliteConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A41D6B7-1898-42EC-A409-FD0B1C3E3DCF/ab/84fbacd6/IDbConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/92/8a2bb121/SqliteFunction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64C469AF-5800-41D2-8354-30E212E7FC3F/42/4e90918b/JsonUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/9a/f3e4802e/SQLiteErrorCode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/32/9cedd21d/SqliteParameter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HighScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F7808A-726E-42DE-8DAE-76E3160D7EC3/6d/5050356c/SqliteCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55FBBBD1-7B72-4C15-B6AB-E8C1A3E3289C/98/e5713b75/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/SQLite/SQLite.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestDictionary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/data/Language.cs" />
+        <option value="$PROJECT_DIR$/Assets/Json/language_am.json" />
+        <option value="$PROJECT_DIR$/Assets/Json/language_en.json" />
+        <option value="$PROJECT_DIR$/Assets/Json/language_ru.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LanguageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LanguageClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ReadFromJson.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/SqliteConnect.cs" />
+        <option value="$PROJECT_DIR$/Assets/ConnectingDB.cs" />
+        <option value="$PROJECT_DIR$/Assets/HighScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ConnectingToDB.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jKMW7joiDSlA2LQHdOeUr3oGDv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d29be11-78e5-4be9-83a9-3f1dc034ac50" name="Default Changelist" comment="" />
+      <created>1721131348784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721131348784</updated>
+      <workItem from="1721131369813" duration="274000" />
+      <workItem from="1721131869225" duration="4129000" />
+      <workItem from="1721136355170" duration="6037000" />
+      <workItem from="1721215102344" duration="672000" />
+      <workItem from="1721218036184" duration="13750000" />
+      <workItem from="1722581795146" duration="2663000" />
+      <workItem from="1722587652756" duration="4556000" />
+      <workItem from="1722599492166" duration="8568000" />
+      <workItem from="1722752190229" duration="734000" />
+      <workItem from="1722753789515" duration="173000" />
+      <workItem from="1722754500942" duration="5308000" />
+      <workItem from="1725269576986" duration="659000" />
+      <workItem from="1725288264365" duration="320000" />
+      <workItem from="1725344314413" duration="12261000" />
+      <workItem from="1725541155850" duration="12347000" />
+      <workItem from="1725626558987" duration="11101000" />
+      <workItem from="1725777591748" duration="9357000" />
+      <workItem from="1725977469552" duration="1759000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change Language">
+      <created>1725269727084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725269727084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Change Language" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Language" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="164" key="#Inspection_severity" timestamp="1725978636931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="164" key="#Inspection_severity/0.0.1920.1040@0.0.1920.1040" timestamp="1725978636931" />
+    <state x="348" y="361" key="#SQL_Dialects" timestamp="1725546929863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1725546929863" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1725269736020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1725269736020" />
+    <state x="834" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1725269704794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="834" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1725269704794" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1725269617125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1725269617125" />
+  </component>
+</project>

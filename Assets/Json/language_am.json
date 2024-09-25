@@ -1,0 +1,24 @@
+{
+   "keyValuePairs": [
+      {
+         "key": "welcome",
+         "value":"Բարի գալուստ"
+      },
+      {
+         "key":"start",
+         "value":"Սկսել"
+      },
+      {
+         "key": "finding opponent",
+         "value": "Փնտրում ենք հակառակորդին"
+      },
+      {
+         "key": "you",
+         "value": "Դուք"
+      },
+      {
+         "key": "cancel",
+         "value": "Չեղարկել"
+      }
+   ]
+}
